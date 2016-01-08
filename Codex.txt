@@ -1,0 +1,5 @@
+//Codex
+ //gradle issues
+ //http://stackoverflow.com/questions/23598480/android-studio-keep-saying-failed-to-complete-gradle-execution
+ // Go to File-->Setting-->Gradle-->Gradle Vm Option, Now put this value -Xmx256m in the box, and hit the Apply button.
+ // then Tools->Android->Sync Project with Gradle Files
