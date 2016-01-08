@@ -14,4 +14,5 @@ gradle issues
    import/export settings also imports/exports the jdk , ndk and proxy settings of the local computer!
    instead to migrate color schemes go to:
    C:\AndroidStudiox.x\config\colors and copy all the files in it.
-   paste it in the new workstation installation
+   paste it in the new workstation installation. Then within
+   File->Settings->Colors&Fonts->General,  just choose the color scheme
